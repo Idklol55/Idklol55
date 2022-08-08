@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 i'm Showoff_TH
+### 🌱 I’m currently learning Code FNF
 
 <!--
 **Idklol55/Idklol55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
