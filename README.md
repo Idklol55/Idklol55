@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Showoff_TH
+### Hi there i'm Showoff_TH
 ### 🌱 I’m currently learning Code FNF
 
 <!--
