@@ -1,5 +1,6 @@
-### Hi there i'm Showoff_TH
-### 🌱 I’m currently learning Code FNF
+### 👋 Hi i'm Showoff_TH
+### 👀 I’m interested in Friday night funkin android ports
+### 🌱 I’m currently learning Haxe Code
 
 <!--
 **Idklol55/Idklol55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
