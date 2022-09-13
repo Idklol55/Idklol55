@@ -2,6 +2,8 @@
 ### 👀 I’m interested in Friday night funkin android ports
 ### 🌱 I’m currently learning Haxe Code
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idklol55&layout=compact&show_icons=true&theme=codeSTACKr)
+
 <!--
 **Idklol55/Idklol55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
