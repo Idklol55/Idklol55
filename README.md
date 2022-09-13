@@ -1,7 +1,8 @@
 ### 👋 Hi, i'm Showoff_TH
 ### 👀 I’m interested in Friday night funkin android ports
+### 😁 I'm have a YouTube channel too
 ### 🌱 I’m currently learning Haxe Code
-### 😑 I don't know what to write
+### 😑 I'm don't know what to write
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idklol55&layout=compact&show_icons=true&theme=codeSTACKr)
 
